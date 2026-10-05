@@ -4,7 +4,7 @@ Canal de descarga y actualización de StoryLine, aplicación Android de recorrid
 
 [Descargar la versión más reciente](https://github.com/Maverick-Dev01/storyline/releases/latest)
 
-Instala sobre la versión anterior para conservar el progreso. Desde 0.1.10, abre Ajustes → Actualizaciones de StoryLine para buscar, descargar y verificar una nueva versión. Android pide confirmar su instalación.
+Instala sobre la versión anterior para conservar el progreso. Instala 0.1.11 una vez si usas 0.1.9 o anterior. Luego abre Ajustes → Actualizaciones de StoryLine para buscar, descargar y verificar una nueva versión. Android pide confirmar su instalación.
 
 Cada entrega incluye APK, `update.json` y `SHA256SUMS.txt`. La app comprueba paquete, versión, tamaño, SHA-256 y firma. No contiene películas, contraseñas ni acceso compartido a Google Drive; cada persona necesita su propia cuenta autorizada.
 
